@@ -10,7 +10,7 @@
 	</parent>
 	<groupId>com.amit</groupId>
 	<artifactId>chat</artifactId>
-	<version>0.0.1-SNAPSHOT</version>
+	<version>0.0.1</version>
 	<name>chat</name>
 	<description>Demo project for Spring Boot</description>
 	<properties>
@@ -57,6 +57,7 @@
 				</configuration>
 			</plugin>
 		</plugins>
+		<finalName>chat-app</finalName>
 	</build>
 
 </project>
